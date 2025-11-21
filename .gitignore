@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# pytest
+.pytest_cache/
+.cache
+pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# IDEs
+.idea/
+*.iml
+
+# Docker
+docker-compose.override.yml
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints
+
+# Misc
+*.pyc
+*.pyo
+*.pyd
+__pypackages__/
